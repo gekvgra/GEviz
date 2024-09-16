@@ -1,0 +1,24 @@
+Package: GEviz
+Title: Functions for creating visualizations in the GE corporate design
+Version: 0.1.0
+Authors@R: 
+    c(
+    person(given = "Magnus",
+           family = "Vieten",
+           role = c("aut"),
+           email = "magnus.vieten@kvg.org"),
+    person(given = "Yannick",
+           family = "Schwarz",
+           role = c("aut", "cre"),
+           email = "yannick.schwarz@kvg.org"),
+    person(given = "Thomas",
+           family = "Fischer",
+           role = c("aut"),
+           email = "thomas.fischer@kvg.org")
+    )
+Description: This package contains visualization-specific functions extracted
+    from the GEpack package.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
